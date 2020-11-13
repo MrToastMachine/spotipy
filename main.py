@@ -26,6 +26,7 @@ def get_song_info():
     
     return [song, artist]
 
+ans = get_song_info()
 
 """
 TO TRY
